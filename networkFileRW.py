@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 #networkFileRW.py
 #Pamela Brauda
-#Thursday, March 3, 2022
++#Monday, July 7, 2025
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 
 ##---->>>> Use a try/except clause to import the JSON module
 
 
-
+## JOSE ESTRELLA
 ##---->>>> Create file constants for the file names; file constants can be reused
 ##         There are 2 files to read this program: equip_r.txt and equip_s.txt
 ##         There are 2 files to write in this program: updated.txt and errors.txt
